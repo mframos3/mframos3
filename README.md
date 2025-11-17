@@ -12,13 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-<h1 align="center">Hi I'm Matías Ramos 👋</h1>
+
+# Hi I'm Matías Ramos 👋
+
+### 🔹 Interests
+- 🏗️ Clean Architecture & Domain-Driven Design  
+- ⚙️ Functional Programming  
+- 🏛️ Software Architecture & System Design  
+- 🧪 Static Analysis & Design by Contract  
+- 💎 TypeScript, Strong Typing & Type Safety  
+- 🖥️ Improving Developer Experience (DX)  
+- 📝 BDD / TDD / Gherkin Syntax & Automation  
+- 🎨 Design Tokens for UX-Dev Sync  
+- 📚 OpenAPI Spec, Live Documentation & SDK/Code Generation  
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mframos3&hide=jupyter%20notebook&layout=compact&theme=synthwave" alt="mframos3" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mframos3&count_private=true&show_icons=true&theme=synthwave&include_all_commits=true" alt="mframos3" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mframos3&theme=radical" alt="mframos3" /></a> </p>
 
 
